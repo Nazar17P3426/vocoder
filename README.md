@@ -1,2 +1,2 @@
 # vocoder
-Ultimate malware by me
+C++ GDI trojan by red-wipet
